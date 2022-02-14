@@ -1,5 +1,1 @@
-asdfasdfasdfasfa
-
-
-sdfasdfadsfadsfasd
-asdfadsfadsfadsfadsfasd
+Para probar el comando pull modificamos desde github este archivo para luego descargarlo en nuestro proyecto local, simulando que este archivo lo trabajo otra persona y que yo quiero descargarlo del repositorio a mi ambiente local para trabajarlo.
